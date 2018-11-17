@@ -1,2 +1,4 @@
 # hxRectPack2D_kha
-Moving hxRectPack2D Kha specific here
+
+Kha example demo use of [hxRectPack2D](https://github.com/nanjizal/hxRectPack2D)
+
